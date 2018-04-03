@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/isilona/microservices/
+          uri: https://github.com/murali333/microkafka/
           search-paths:
             - "ms-config-properties/{application}/{profiles}"
